@@ -1,0 +1,139 @@
+*{
+    font-family: poppins;
+}
+header{
+    background-color: rgb(230, 32, 32);
+    height: 95px;
+    position: relative;
+}
+.logo-span{
+    background-color: #FBFBFB;
+    border-radius: 50%;
+    padding: 5px 15px;
+    position: absolute;
+    left: 80px;
+    top: 15px;
+}
+.logo{
+    color: red;
+    text-decoration:none;
+    font-size: 33px;
+    font-weight: bolder;
+}
+.login-signup{
+    position: absolute;
+    right: 80px;
+    top: 20px;
+    word-spacing: 10px;
+}
+.login{
+    color: #FBFBFB;
+    text-decoration: none;
+}
+.createacc{
+    color: #FBFBFB;
+    word-spacing: normal;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px 10px;
+}
+section{
+    position: relative;
+    padding: 15px 20px;
+}
+.title-text{
+    color:#192F60;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.filters-article{
+    width: 260px;
+    height: 682px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000030;
+    opacity: 1;  
+}
+.filter{
+    color: #192F60;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+.searchlocation{
+    color: #192F60;
+    padding: 5px 10px;
+}
+.input-search{
+    border: 1px solid #8C96AB;
+    margin-left: 10px;
+}
+.cuisine{
+    color: #192F60;
+    padding: 5px 10px;
+}
+.cost{
+    color: #192F60;
+    padding: 5px 10px;
+}
+.sort{
+    color: #192F60;
+    padding: 5px 10px;
+}
+.result1-article{
+    width: 794px;
+    height: 291px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000030;
+    opacity: 1;
+    position: relative;
+    top: -680px;
+    left: 284px;
+}
+.result1{
+    color: #192F60;
+}
+.result1 img{
+    position: relative;
+    left: -40%;
+    padding: 10px 15px;
+}
+.result1 h2{
+    color: #192F60;
+    position: relative;
+    top: -138px;
+    left: -79px;
+    
+}
+.fort{
+    color: #8C96AB;
+    position: relative;
+    top: -136px;
+    left: 204px;
+}
+.fort1{
+    color: #8C96AB;
+    position: relative;
+    top: -124px;
+    left: 33px;
+    word-spacing: 5%;
+}
+.result2-article{
+    width: 794px;
+    height: 291px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000030;
+    opacity: 1;
+    position: relative;
+    top: -657px;
+    left: 284px;
+}
+.pagination a{
+    position: relative;
+    bottom: 622px;
+    left: 50%;
+    color: #192F60;
+    border: 2px solid #8C96AB;
+    text-decoration: none;
+    padding: 4px 8px;
+}
